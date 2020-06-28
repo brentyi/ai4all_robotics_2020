@@ -6,7 +6,7 @@ import glob
 import os
 
 # How many images to keep
-desired_count = 400
+desired_count = 2000
 
 # Training data filenames should be {prefix}{number}{suffix}
 prefix = "train_"
