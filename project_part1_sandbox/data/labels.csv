@@ -1,0 +1,2000 @@
+0,haze primary
+1,agriculture clear primary water
+2,clear primary
+3,clear primary
+4,agriculture clear habitation primary road
+5,haze primary water
+6,agriculture clear cultivation primary water
+7,haze primary
+8,agriculture clear cultivation primary
+9,agriculture clear cultivation primary road
+10,agriculture clear primary slash_burn water
+11,clear primary water
+12,cloudy
+13,clear primary
+14,cloudy
+15,clear primary
+16,clear primary
+17,partly_cloudy primary
+18,clear primary
+19,agriculture clear primary road
+20,agriculture clear primary water
+21,clear primary road water
+22,partly_cloudy primary
+23,agriculture clear primary road
+24,conventional_mine partly_cloudy primary
+25,clear primary
+26,cloudy
+27,agriculture partly_cloudy primary water
+28,clear primary
+29,partly_cloudy primary
+30,clear primary water
+31,clear cultivation primary
+32,agriculture clear primary road
+33,agriculture cultivation partly_cloudy primary
+34,clear primary
+35,clear primary
+36,agriculture clear primary road
+37,partly_cloudy primary
+38,clear primary
+39,clear primary
+40,agriculture clear cultivation primary
+41,agriculture clear primary
+42,clear primary
+43,bare_ground haze
+44,clear primary
+45,clear primary
+46,bare_ground clear habitation primary
+47,clear primary water
+48,clear primary water
+49,clear primary
+50,cloudy
+51,clear primary
+52,agriculture clear habitation primary road water
+53,clear primary
+54,clear primary
+55,partly_cloudy primary road water
+56,clear primary water
+57,artisinal_mine bare_ground clear primary water
+58,agriculture clear primary road
+59,agriculture clear habitation primary road
+60,haze primary
+61,clear primary
+62,clear primary water
+63,agriculture clear primary road
+64,agriculture clear primary
+65,clear primary
+66,agriculture clear primary road
+67,clear habitation primary road
+68,cloudy
+69,clear primary
+70,blooming clear primary
+71,clear primary water
+72,cloudy
+73,clear primary
+74,agriculture partly_cloudy primary road
+75,agriculture clear primary road water
+76,partly_cloudy primary
+77,cloudy
+78,clear primary
+79,clear cultivation primary
+80,agriculture partly_cloudy primary road
+81,clear primary
+82,blooming clear cultivation habitation primary slash_burn
+83,clear primary
+84,agriculture clear habitation primary road
+85,clear primary water
+86,clear primary
+87,cloudy
+88,partly_cloudy primary
+89,clear primary
+90,agriculture partly_cloudy primary road
+91,partly_cloudy primary
+92,agriculture clear habitation primary road
+93,clear primary
+94,agriculture clear habitation primary road
+95,clear primary
+96,clear primary
+97,cloudy
+98,clear primary
+99,partly_cloudy primary
+100,bare_ground clear water
+101,cloudy
+102,clear primary
+103,agriculture clear habitation primary road water
+104,haze primary
+105,clear primary
+106,clear primary
+107,partly_cloudy primary
+108,cloudy
+109,clear primary
+110,clear primary
+111,cloudy
+112,agriculture clear primary road
+113,agriculture clear primary
+114,clear primary water
+115,clear primary water
+116,agriculture clear primary road
+117,clear primary
+118,cloudy
+119,agriculture clear primary road water
+120,clear primary
+121,partly_cloudy primary water
+122,agriculture clear primary road
+123,agriculture bare_ground clear habitation primary road
+124,bare_ground clear primary
+125,agriculture clear primary
+126,agriculture clear primary road
+127,clear primary
+128,clear primary
+129,agriculture clear primary
+130,partly_cloudy primary
+131,agriculture clear primary road water
+132,haze primary
+133,haze primary
+134,clear primary
+135,clear primary water
+136,haze primary
+137,clear primary
+138,cloudy
+139,clear primary
+140,clear primary
+141,partly_cloudy primary water
+142,agriculture clear habitation primary road
+143,partly_cloudy primary water
+144,agriculture partly_cloudy primary selective_logging
+145,partly_cloudy primary
+146,clear cultivation primary
+147,clear primary
+148,agriculture clear cultivation primary water
+149,clear primary
+150,agriculture partly_cloudy primary
+151,agriculture clear cultivation primary selective_logging
+152,haze primary
+153,clear primary
+154,clear primary
+155,clear primary
+156,clear primary water
+157,agriculture partly_cloudy primary
+158,agriculture clear primary water
+159,agriculture clear primary road
+160,partly_cloudy primary
+161,partly_cloudy primary
+162,agriculture partly_cloudy primary
+163,clear primary
+164,clear primary
+165,clear primary water
+166,clear primary road selective_logging water
+167,agriculture habitation partly_cloudy primary road
+168,cloudy
+169,agriculture clear primary road
+170,clear primary water
+171,agriculture clear primary road
+172,agriculture clear primary road
+173,clear cultivation primary
+174,cloudy
+175,clear primary
+176,clear primary
+177,agriculture clear primary road water
+178,clear primary
+179,cloudy
+180,haze primary
+181,clear primary
+182,partly_cloudy primary
+183,clear primary
+184,partly_cloudy primary
+185,agriculture artisinal_mine clear cultivation habitation primary road water
+186,clear primary road water
+187,artisinal_mine clear primary road
+188,clear primary water
+189,clear primary road water
+190,clear primary
+191,partly_cloudy primary
+192,blow_down clear primary
+193,partly_cloudy primary
+194,partly_cloudy primary
+195,agriculture clear primary road
+196,haze primary
+197,agriculture clear primary road
+198,clear primary
+199,agriculture clear cultivation primary
+200,clear primary
+201,clear primary
+202,clear habitation road
+203,cloudy
+204,clear primary
+205,agriculture clear cultivation primary
+206,partly_cloudy primary
+207,bare_ground clear primary road
+208,clear primary
+209,agriculture clear primary road
+210,partly_cloudy primary
+211,clear habitation primary road
+212,partly_cloudy primary
+213,agriculture clear primary road water
+214,clear primary
+215,haze primary water
+216,agriculture clear primary road
+217,bare_ground clear primary
+218,agriculture clear cultivation habitation primary road
+219,clear primary
+220,partly_cloudy primary
+221,clear primary
+222,agriculture clear cultivation habitation primary road water
+223,clear primary
+224,agriculture clear primary
+225,agriculture clear cultivation habitation primary road
+226,cloudy
+227,agriculture clear cultivation primary
+228,agriculture haze primary road water
+229,agriculture clear cultivation primary
+230,agriculture bare_ground habitation partly_cloudy primary road
+231,partly_cloudy primary
+232,clear primary
+233,clear primary water
+234,cloudy
+235,clear primary
+236,clear primary
+237,artisinal_mine clear primary road water
+238,clear primary
+239,bare_ground clear primary water
+240,agriculture clear primary road
+241,agriculture haze primary road
+242,clear primary
+243,clear primary
+244,clear primary
+245,clear primary blooming
+246,clear primary
+247,agriculture clear cultivation habitation primary road selective_logging
+248,haze primary
+249,partly_cloudy primary
+250,clear primary
+251,clear primary
+252,clear habitation primary
+253,agriculture clear habitation primary road
+254,clear primary
+255,agriculture clear habitation primary road
+256,agriculture clear cultivation primary
+257,cloudy
+258,clear habitation primary road
+259,partly_cloudy primary
+260,clear primary road water
+261,agriculture clear primary
+262,clear cultivation primary
+263,agriculture clear primary
+264,clear primary
+265,partly_cloudy primary
+266,clear cultivation habitation primary
+267,partly_cloudy primary
+268,agriculture clear habitation primary road
+269,clear primary
+270,agriculture clear primary road
+271,clear primary
+272,agriculture clear primary road
+273,clear water
+274,artisinal_mine clear primary road water
+275,clear primary
+276,partly_cloudy primary
+277,clear primary
+278,clear primary
+279,clear cultivation primary
+280,partly_cloudy primary
+281,clear primary selective_logging
+282,partly_cloudy primary
+283,partly_cloudy primary water
+284,cloudy
+285,cloudy
+286,agriculture artisinal_mine clear primary water
+287,partly_cloudy primary
+288,clear primary water
+289,clear primary
+290,clear water
+291,agriculture clear primary road
+292,agriculture partly_cloudy primary
+293,clear primary water
+294,clear primary road
+295,clear primary water
+296,clear primary
+297,agriculture clear cultivation primary
+298,agriculture bare_ground clear cultivation habitation primary
+299,clear primary
+300,clear primary
+301,agriculture clear primary road water
+302,cloudy
+303,agriculture clear primary
+304,agriculture clear primary
+305,partly_cloudy primary
+306,partly_cloudy primary
+307,clear primary
+308,agriculture cultivation partly_cloudy primary road water
+309,agriculture clear primary water
+310,clear primary
+311,agriculture clear habitation primary road
+312,partly_cloudy primary
+313,clear primary water
+314,agriculture clear primary road
+315,agriculture haze primary road
+316,agriculture clear primary
+317,clear primary
+318,clear primary
+319,bare_ground clear road
+320,partly_cloudy primary
+321,clear primary water
+322,clear primary road water
+323,partly_cloudy primary
+324,agriculture clear primary water
+325,haze primary
+326,agriculture clear primary
+327,clear primary
+328,agriculture partly_cloudy primary road
+329,clear primary road water
+330,agriculture clear primary water
+331,partly_cloudy primary
+332,haze primary
+333,agriculture clear primary road
+334,partly_cloudy primary road water
+335,clear primary
+336,clear primary
+337,cloudy
+338,agriculture clear primary
+339,clear primary
+340,partly_cloudy road water
+341,haze primary
+342,agriculture partly_cloudy primary road
+343,cloudy
+344,clear primary
+345,agriculture clear primary
+346,clear primary
+347,partly_cloudy primary road water
+348,clear primary
+349,agriculture clear primary
+350,agriculture clear primary road
+351,agriculture haze primary road
+352,cloudy
+353,agriculture habitation partly_cloudy primary road
+354,clear primary
+355,clear primary
+356,clear primary
+357,clear primary
+358,agriculture clear cultivation primary
+359,agriculture partly_cloudy primary
+360,haze primary
+361,agriculture partly_cloudy primary road
+362,clear primary water
+363,haze primary water
+364,clear primary
+365,partly_cloudy primary
+366,clear primary water
+367,haze primary
+368,clear primary
+369,agriculture clear cultivation habitation primary
+370,agriculture clear habitation primary road
+371,clear primary
+372,clear primary
+373,clear primary
+374,agriculture clear primary
+375,clear primary
+376,clear primary
+377,partly_cloudy primary
+378,clear primary
+379,agriculture clear primary road
+380,clear primary
+381,agriculture clear cultivation habitation primary road
+382,clear primary
+383,clear primary
+384,partly_cloudy primary
+385,agriculture cultivation habitation partly_cloudy primary road
+386,clear primary road water
+387,clear primary
+388,agriculture haze primary
+389,agriculture clear primary road
+390,agriculture clear primary road
+391,agriculture clear primary road water
+392,agriculture clear primary
+393,agriculture clear primary road
+394,blooming clear primary
+395,partly_cloudy primary
+396,cloudy
+397,clear primary
+398,clear primary
+399,clear primary
+400,agriculture partly_cloudy primary water
+401,clear primary
+402,partly_cloudy primary selective_logging
+403,agriculture clear habitation primary
+404,clear primary
+405,agriculture clear primary road
+406,agriculture haze primary water
+407,clear primary
+408,blooming clear primary
+409,partly_cloudy primary
+410,clear primary
+411,agriculture clear primary road water
+412,clear water
+413,cloudy
+414,haze primary
+415,clear primary
+416,clear habitation primary road water
+417,haze primary
+418,bare_ground clear primary water
+419,agriculture clear habitation primary road
+420,bare_ground clear primary road
+421,agriculture clear primary water
+422,clear primary
+423,clear primary
+424,clear primary
+425,clear habitation road
+426,haze primary water
+427,clear primary
+428,clear primary
+429,clear primary
+430,agriculture blooming clear cultivation primary
+431,clear primary
+432,haze primary
+433,clear primary
+434,agriculture partly_cloudy primary
+435,bare_ground clear primary
+436,clear primary
+437,cloudy
+438,clear primary
+439,clear primary
+440,partly_cloudy primary
+441,agriculture partly_cloudy primary road water
+442,agriculture clear primary water
+443,clear primary
+444,clear primary road
+445,cultivation partly_cloudy primary water
+446,clear primary
+447,clear primary
+448,agriculture artisinal_mine clear primary road water
+449,clear primary
+450,clear primary water
+451,bare_ground clear primary
+452,partly_cloudy water
+453,cloudy
+454,haze primary water
+455,clear primary
+456,agriculture clear habitation primary road water
+457,clear primary
+458,haze primary
+459,clear primary
+460,haze primary
+461,agriculture habitation partly_cloudy primary
+462,clear primary
+463,clear primary road water
+464,agriculture clear primary
+465,clear cultivation primary
+466,clear primary
+467,agriculture clear cultivation primary
+468,clear primary
+469,clear primary
+470,clear primary
+471,agriculture bare_ground clear cultivation primary water
+472,clear primary water
+473,clear primary
+474,agriculture partly_cloudy primary water
+475,clear primary road
+476,cloudy
+477,agriculture clear cultivation habitation primary slash_burn
+478,clear primary
+479,clear primary
+480,clear primary
+481,partly_cloudy primary
+482,partly_cloudy primary
+483,clear primary
+484,clear primary
+485,clear primary
+486,bare_ground clear primary
+487,clear primary
+488,clear primary water
+489,clear primary water
+490,clear primary
+491,clear habitation primary road water
+492,partly_cloudy primary
+493,clear primary
+494,clear primary
+495,clear primary water
+496,clear primary
+497,clear primary
+498,agriculture clear habitation primary road water
+499,bare_ground clear primary
+500,partly_cloudy primary
+501,clear primary
+502,clear primary
+503,clear primary road water
+504,haze primary water
+505,partly_cloudy primary
+506,partly_cloudy primary
+507,agriculture partly_cloudy primary
+508,clear primary
+509,clear primary
+510,partly_cloudy primary
+511,clear primary water
+512,agriculture clear habitation primary road water
+513,clear cultivation habitation primary road
+514,clear primary
+515,clear primary
+516,agriculture clear primary road
+517,partly_cloudy primary water
+518,agriculture haze primary road water
+519,blooming clear primary
+520,agriculture cultivation partly_cloudy primary
+521,bare_ground blow_down clear primary slash_burn
+522,agriculture clear primary road
+523,agriculture habitation partly_cloudy primary road
+524,agriculture clear primary water
+525,agriculture clear primary road water
+526,partly_cloudy primary
+527,agriculture partly_cloudy primary
+528,clear primary
+529,blooming clear primary
+530,clear primary
+531,clear primary
+532,agriculture cultivation partly_cloudy primary road
+533,clear habitation road
+534,cloudy
+535,blow_down clear primary
+536,clear primary
+537,blooming clear primary
+538,clear primary
+539,agriculture habitation partly_cloudy primary road
+540,agriculture habitation partly_cloudy primary road
+541,agriculture cultivation partly_cloudy primary water
+542,partly_cloudy primary
+543,clear primary
+544,clear primary selective_logging
+545,clear primary
+546,agriculture clear primary road
+547,clear primary
+548,clear primary
+549,clear primary water
+550,partly_cloudy primary
+551,partly_cloudy primary
+552,agriculture clear primary
+553,agriculture partly_cloudy primary road
+554,haze primary
+555,clear primary
+556,clear primary water
+557,agriculture clear primary road
+558,clear primary
+559,agriculture clear cultivation habitation primary
+560,clear primary
+561,clear primary
+562,agriculture haze primary
+563,partly_cloudy primary
+564,clear primary
+565,agriculture clear primary road water
+566,blooming clear primary
+567,agriculture clear cultivation primary
+568,agriculture clear primary water
+569,cloudy
+570,bare_ground clear road
+571,partly_cloudy primary
+572,agriculture clear primary road water
+573,clear primary
+574,agriculture clear cultivation primary road water
+575,clear primary road
+576,partly_cloudy primary
+577,agriculture clear primary
+578,clear primary
+579,partly_cloudy primary
+580,clear primary
+581,haze primary water
+582,cloudy
+583,clear primary
+584,agriculture clear habitation primary road
+585,agriculture clear habitation primary road
+586,clear primary
+587,clear primary
+588,clear cultivation primary
+589,agriculture partly_cloudy primary
+590,agriculture clear primary
+591,clear primary
+592,clear primary
+593,clear primary
+594,clear primary
+595,clear primary water
+596,partly_cloudy primary
+597,agriculture blooming clear primary road water
+598,partly_cloudy primary water
+599,agriculture clear primary
+600,clear primary
+601,cloudy
+602,clear primary
+603,clear primary
+604,agriculture clear primary road
+605,clear primary water
+606,clear primary
+607,agriculture clear primary road
+608,agriculture partly_cloudy primary
+609,bare_ground clear primary
+610,agriculture clear primary road
+611,clear primary
+612,clear primary
+613,agriculture clear cultivation habitation primary road
+614,partly_cloudy primary water
+615,clear primary
+616,clear primary
+617,clear primary
+618,clear cultivation primary water
+619,agriculture clear primary water
+620,partly_cloudy primary
+621,clear primary
+622,clear primary
+623,agriculture clear primary water
+624,clear primary
+625,haze primary
+626,clear primary
+627,clear primary
+628,clear primary
+629,clear primary
+630,clear primary
+631,agriculture clear primary road
+632,agriculture clear primary road water
+633,agriculture clear habitation primary road
+634,agriculture clear primary
+635,clear primary
+636,clear primary
+637,clear primary
+638,clear primary
+639,clear primary
+640,clear primary
+641,clear primary
+642,clear primary water
+643,clear primary
+644,clear primary
+645,clear primary water
+646,cloudy
+647,partly_cloudy primary
+648,partly_cloudy primary
+649,agriculture clear cultivation primary
+650,cloudy
+651,agriculture clear habitation primary road water
+652,clear primary water
+653,agriculture clear cultivation primary road
+654,haze primary
+655,clear primary
+656,agriculture clear habitation primary road
+657,agriculture clear primary road
+658,clear primary
+659,blooming partly_cloudy primary
+660,clear primary
+661,agriculture haze primary
+662,clear primary
+663,clear primary
+664,clear primary
+665,agriculture clear cultivation primary road water
+666,agriculture clear cultivation primary
+667,clear primary
+668,clear primary
+669,agriculture clear cultivation habitation primary road
+670,agriculture clear cultivation primary road water
+671,clear primary
+672,agriculture partly_cloudy primary
+673,clear primary
+674,partly_cloudy primary
+675,agriculture partly_cloudy primary
+676,clear primary
+677,agriculture clear habitation primary road
+678,agriculture partly_cloudy primary road
+679,clear primary
+680,agriculture clear cultivation habitation primary road water
+681,clear primary
+682,clear primary
+683,agriculture clear primary road
+684,partly_cloudy primary
+685,clear primary
+686,clear primary
+687,clear primary
+688,agriculture haze primary road
+689,clear primary water
+690,agriculture haze primary road
+691,clear primary
+692,partly_cloudy primary
+693,agriculture clear water
+694,clear primary
+695,clear habitation primary road
+696,agriculture clear cultivation primary road selective_logging
+697,clear primary
+698,bare_ground clear primary
+699,agriculture clear habitation primary water
+700,clear primary water
+701,agriculture clear habitation primary water
+702,agriculture clear primary road
+703,blow_down clear primary
+704,haze primary
+705,clear primary
+706,partly_cloudy primary
+707,partly_cloudy primary
+708,clear primary water
+709,clear primary
+710,clear primary
+711,cultivation partly_cloudy primary
+712,blooming clear primary
+713,clear primary
+714,clear primary
+715,agriculture partly_cloudy primary road water
+716,agriculture partly_cloudy primary
+717,cloudy
+718,bare_ground clear primary water
+719,clear primary
+720,agriculture clear cultivation habitation primary
+721,agriculture partly_cloudy primary road
+722,agriculture clear primary road water
+723,clear primary
+724,clear primary
+725,agriculture habitation partly_cloudy primary
+726,agriculture partly_cloudy primary water
+727,clear primary
+728,agriculture clear cultivation habitation primary road slash_burn
+729,clear primary
+730,clear primary water
+731,clear primary
+732,clear primary
+733,agriculture clear primary road
+734,clear primary
+735,clear primary water
+736,agriculture clear cultivation habitation primary road
+737,clear primary
+738,agriculture clear cultivation primary
+739,agriculture clear habitation primary
+740,haze primary water
+741,clear primary
+742,clear primary water
+743,cloudy
+744,agriculture clear habitation primary road
+745,partly_cloudy primary
+746,clear primary road selective_logging
+747,clear primary
+748,clear primary
+749,agriculture clear primary road
+750,agriculture clear primary water
+751,agriculture clear primary road
+752,partly_cloudy primary
+753,agriculture partly_cloudy primary
+754,clear primary
+755,clear primary water
+756,agriculture cultivation habitation partly_cloudy primary road
+757,partly_cloudy primary
+758,cloudy
+759,partly_cloudy primary
+760,clear primary
+761,clear primary
+762,agriculture clear habitation primary road
+763,agriculture clear primary water
+764,clear primary road
+765,habitation partly_cloudy road
+766,agriculture partly_cloudy primary road
+767,agriculture clear primary road
+768,clear primary
+769,agriculture habitation partly_cloudy primary
+770,agriculture clear cultivation habitation primary road
+771,clear primary water
+772,clear primary
+773,clear primary
+774,partly_cloudy primary
+775,haze primary
+776,clear primary
+777,clear primary
+778,clear primary water
+779,clear primary
+780,agriculture clear cultivation primary
+781,partly_cloudy primary water
+782,cloudy
+783,clear primary water
+784,clear primary
+785,agriculture cultivation partly_cloudy primary
+786,agriculture clear cultivation primary
+787,clear primary water
+788,clear primary
+789,clear primary
+790,cloudy
+791,clear primary
+792,clear primary
+793,agriculture clear primary road
+794,habitation partly_cloudy primary road
+795,bare_ground clear primary road
+796,partly_cloudy primary
+797,partly_cloudy primary
+798,partly_cloudy primary
+799,cloudy
+800,agriculture haze primary
+801,clear primary
+802,agriculture clear cultivation habitation primary
+803,clear primary
+804,agriculture partly_cloudy primary road
+805,clear primary
+806,clear primary water
+807,haze primary
+808,clear primary
+809,agriculture clear cultivation habitation primary road
+810,clear primary
+811,agriculture clear habitation primary
+812,clear primary
+813,agriculture clear primary
+814,agriculture clear habitation primary road
+815,partly_cloudy primary water
+816,agriculture clear cultivation primary
+817,cloudy
+818,clear primary
+819,partly_cloudy primary water
+820,agriculture clear habitation primary road water
+821,clear primary
+822,clear primary
+823,cloudy
+824,clear primary
+825,bare_ground clear cultivation habitation primary water
+826,agriculture partly_cloudy primary road
+827,cloudy
+828,clear primary
+829,agriculture clear primary road
+830,agriculture clear primary
+831,agriculture clear primary
+832,clear primary
+833,clear primary
+834,partly_cloudy primary
+835,clear primary
+836,clear primary
+837,clear primary
+838,clear primary water
+839,clear primary
+840,partly_cloudy primary
+841,agriculture clear primary
+842,partly_cloudy primary
+843,agriculture clear primary road
+844,partly_cloudy primary
+845,clear primary
+846,partly_cloudy primary
+847,clear primary
+848,clear primary
+849,habitation haze primary road
+850,clear primary
+851,agriculture clear cultivation primary road
+852,clear primary
+853,clear primary water
+854,clear primary
+855,clear primary
+856,agriculture partly_cloudy primary
+857,agriculture clear primary
+858,agriculture clear primary road
+859,agriculture clear primary road
+860,cloudy
+861,clear primary road water
+862,clear primary water
+863,clear primary
+864,clear primary blooming
+865,clear cultivation habitation primary water
+866,agriculture clear habitation primary road
+867,agriculture clear habitation primary road
+868,clear primary
+869,clear primary
+870,partly_cloudy primary water
+871,clear primary road selective_logging
+872,agriculture clear primary road water
+873,partly_cloudy primary
+874,partly_cloudy primary road water
+875,agriculture clear primary road
+876,agriculture clear cultivation primary
+877,clear primary
+878,clear primary
+879,agriculture haze primary
+880,clear primary
+881,partly_cloudy primary
+882,agriculture partly_cloudy primary
+883,agriculture clear primary
+884,partly_cloudy primary
+885,cultivation haze primary
+886,clear primary
+887,partly_cloudy primary
+888,cloudy
+889,clear primary
+890,agriculture clear primary
+891,clear primary
+892,clear primary blooming
+893,cloudy
+894,agriculture clear cultivation primary
+895,agriculture clear primary road
+896,agriculture clear habitation primary
+897,blooming partly_cloudy primary
+898,clear cultivation primary water
+899,clear primary
+900,partly_cloudy primary water
+901,agriculture clear primary
+902,cloudy
+903,clear primary
+904,partly_cloudy primary
+905,clear primary
+906,clear primary
+907,clear cultivation primary
+908,clear primary
+909,agriculture clear primary
+910,clear primary road
+911,clear primary
+912,partly_cloudy primary
+913,clear cultivation habitation primary
+914,clear cultivation primary
+915,clear primary water
+916,agriculture clear primary water
+917,clear primary
+918,clear primary
+919,clear primary water
+920,haze primary
+921,agriculture clear primary
+922,clear primary
+923,partly_cloudy primary water
+924,blow_down clear primary
+925,agriculture clear cultivation primary
+926,clear primary
+927,clear primary
+928,partly_cloudy primary water
+929,clear primary
+930,clear primary
+931,agriculture clear primary
+932,agriculture clear primary road
+933,clear primary water
+934,clear primary water
+935,partly_cloudy primary
+936,clear primary
+937,clear primary
+938,cloudy
+939,clear primary
+940,agriculture clear primary road
+941,clear primary water
+942,partly_cloudy primary
+943,clear primary water
+944,clear primary road
+945,clear primary
+946,clear primary
+947,clear cultivation primary
+948,agriculture clear cultivation primary
+949,agriculture clear cultivation habitation primary road
+950,clear primary road water
+951,cultivation partly_cloudy primary water
+952,partly_cloudy primary water
+953,agriculture habitation partly_cloudy primary road water
+954,partly_cloudy primary
+955,clear primary
+956,clear primary water
+957,clear habitation primary road
+958,agriculture partly_cloudy primary water
+959,agriculture clear primary
+960,agriculture clear primary water
+961,partly_cloudy primary
+962,clear primary
+963,haze primary
+964,clear primary
+965,haze primary
+966,agriculture clear primary road
+967,clear primary
+968,haze primary
+969,partly_cloudy primary
+970,cloudy
+971,clear primary
+972,partly_cloudy primary water
+973,agriculture clear primary
+974,bare_ground clear primary road water
+975,partly_cloudy primary
+976,clear primary
+977,agriculture clear habitation primary road water
+978,clear primary
+979,clear primary water
+980,clear primary
+981,clear primary
+982,agriculture clear habitation primary road
+983,clear primary
+984,cloudy
+985,clear primary
+986,agriculture clear cultivation primary
+987,agriculture haze primary
+988,agriculture partly_cloudy primary road
+989,haze primary water
+990,clear primary
+991,agriculture clear primary road
+992,agriculture clear cultivation primary
+993,clear habitation primary water
+994,artisinal_mine partly_cloudy primary water
+995,clear primary
+996,partly_cloudy primary road
+997,artisinal_mine clear primary road selective_logging water
+998,agriculture cultivation partly_cloudy primary road
+999,clear primary
+1000,partly_cloudy primary
+1001,clear primary
+1002,clear primary
+1003,clear primary
+1004,clear primary water
+1005,clear primary
+1006,clear primary
+1007,clear primary
+1008,clear primary
+1009,agriculture clear primary road
+1010,clear primary
+1011,clear primary road water
+1012,clear cultivation primary road water
+1013,partly_cloudy primary
+1014,agriculture partly_cloudy primary road
+1015,clear primary
+1016,clear primary road
+1017,clear primary
+1018,clear primary
+1019,agriculture clear habitation primary road
+1020,clear primary water
+1021,clear primary
+1022,haze primary
+1023,agriculture clear primary
+1024,clear primary
+1025,agriculture clear cultivation primary
+1026,clear primary
+1027,clear primary water
+1028,partly_cloudy primary
+1029,clear primary
+1030,partly_cloudy water
+1031,agriculture clear primary water
+1032,agriculture partly_cloudy primary road
+1033,clear primary water
+1034,agriculture clear cultivation primary road
+1035,clear primary
+1036,partly_cloudy primary
+1037,clear primary water
+1038,agriculture partly_cloudy
+1039,clear primary
+1040,clear primary
+1041,agriculture habitation partly_cloudy primary road
+1042,clear primary
+1043,agriculture clear habitation primary road
+1044,clear primary
+1045,agriculture clear cultivation habitation primary road water
+1046,agriculture clear habitation primary road
+1047,agriculture clear cultivation primary
+1048,partly_cloudy primary
+1049,clear primary
+1050,agriculture clear primary
+1051,clear primary
+1052,clear primary
+1053,haze primary
+1054,agriculture clear habitation primary road
+1055,clear primary
+1056,clear primary
+1057,partly_cloudy primary
+1058,partly_cloudy primary
+1059,partly_cloudy primary
+1060,cloudy
+1061,agriculture clear cultivation habitation primary road water
+1062,clear primary
+1063,agriculture clear primary
+1064,bare_ground clear primary
+1065,partly_cloudy primary water
+1066,agriculture clear cultivation primary water
+1067,partly_cloudy primary
+1068,clear primary
+1069,clear primary
+1070,cloudy
+1071,clear primary
+1072,partly_cloudy primary
+1073,agriculture partly_cloudy primary road
+1074,clear primary
+1075,partly_cloudy primary
+1076,agriculture clear primary
+1077,habitation partly_cloudy primary road
+1078,partly_cloudy primary
+1079,clear cultivation primary
+1080,clear primary water
+1081,partly_cloudy water
+1082,clear primary
+1083,clear primary
+1084,clear primary
+1085,clear primary
+1086,cloudy
+1087,agriculture clear primary road slash_burn
+1088,clear primary
+1089,clear cultivation primary
+1090,agriculture clear primary water
+1091,agriculture clear habitation primary road
+1092,cloudy
+1093,agriculture clear primary road
+1094,agriculture cultivation partly_cloudy primary
+1095,agriculture partly_cloudy primary
+1096,clear primary
+1097,clear primary water
+1098,agriculture clear habitation primary road water
+1099,clear primary water
+1100,clear primary
+1101,clear water
+1102,agriculture clear habitation primary road
+1103,partly_cloudy primary
+1104,cultivation haze primary
+1105,partly_cloudy primary
+1106,agriculture clear habitation primary road
+1107,clear primary
+1108,agriculture clear primary road
+1109,clear primary
+1110,partly_cloudy primary
+1111,clear primary
+1112,agriculture clear habitation primary water
+1113,haze primary
+1114,clear primary
+1115,artisinal_mine clear primary
+1116,agriculture clear cultivation primary
+1117,agriculture clear cultivation primary road water
+1118,clear primary
+1119,agriculture clear habitation primary road
+1120,clear primary
+1121,haze primary
+1122,agriculture clear cultivation primary
+1123,clear habitation primary road
+1124,clear primary
+1125,partly_cloudy primary
+1126,cloudy
+1127,clear primary
+1128,agriculture clear cultivation habitation primary road
+1129,agriculture cultivation partly_cloudy primary road
+1130,agriculture clear habitation primary road water
+1131,partly_cloudy primary
+1132,clear primary road water
+1133,clear primary
+1134,agriculture clear cultivation primary
+1135,clear primary water
+1136,clear primary road water
+1137,clear primary
+1138,agriculture partly_cloudy primary
+1139,agriculture partly_cloudy primary
+1140,cloudy
+1141,clear primary water
+1142,agriculture clear primary
+1143,clear cultivation primary
+1144,agriculture clear primary road
+1145,clear primary
+1146,clear primary
+1147,haze primary
+1148,clear primary
+1149,haze primary
+1150,clear primary
+1151,agriculture clear primary
+1152,clear primary
+1153,haze primary
+1154,agriculture clear cultivation primary water
+1155,clear primary
+1156,agriculture clear primary
+1157,clear primary
+1158,clear primary
+1159,agriculture clear cultivation primary road
+1160,clear primary
+1161,haze primary
+1162,partly_cloudy primary water
+1163,clear cultivation primary slash_burn
+1164,clear primary
+1165,clear primary road water
+1166,clear primary water
+1167,agriculture clear cultivation primary
+1168,clear primary
+1169,clear primary
+1170,clear habitation primary road
+1171,clear primary
+1172,clear primary
+1173,agriculture clear habitation primary road
+1174,clear primary
+1175,partly_cloudy primary
+1176,agriculture cultivation habitation partly_cloudy primary road
+1177,partly_cloudy primary
+1178,agriculture clear habitation primary road
+1179,partly_cloudy primary road
+1180,clear primary
+1181,clear primary road selective_logging
+1182,clear primary
+1183,partly_cloudy primary road selective_logging
+1184,agriculture haze primary water
+1185,clear primary water
+1186,partly_cloudy primary
+1187,clear primary
+1188,agriculture clear cultivation primary road
+1189,clear primary
+1190,clear primary
+1191,agriculture clear primary road
+1192,clear primary
+1193,clear primary
+1194,cloudy
+1195,agriculture clear habitation primary road
+1196,clear water
+1197,agriculture cultivation habitation partly_cloudy primary road
+1198,clear primary
+1199,agriculture clear
+1200,clear primary
+1201,bare_ground clear cultivation primary
+1202,partly_cloudy primary
+1203,clear primary
+1204,bare_ground clear primary
+1205,clear primary
+1206,clear habitation primary road water
+1207,agriculture partly_cloudy primary road water
+1208,clear primary water
+1209,clear cultivation primary
+1210,partly_cloudy primary
+1211,bare_ground clear habitation primary
+1212,clear primary
+1213,clear primary
+1214,clear primary
+1215,clear primary
+1216,clear primary water
+1217,agriculture clear primary
+1218,clear primary
+1219,partly_cloudy primary
+1220,agriculture clear cultivation primary
+1221,clear primary
+1222,clear primary
+1223,bare_ground clear primary road water
+1224,clear primary
+1225,partly_cloudy primary
+1226,partly_cloudy primary
+1227,clear primary
+1228,agriculture clear primary road
+1229,agriculture haze primary road water
+1230,agriculture haze primary
+1231,clear primary
+1232,haze primary
+1233,agriculture partly_cloudy primary
+1234,agriculture clear cultivation habitation primary road
+1235,agriculture clear habitation primary road
+1236,haze primary
+1237,agriculture clear cultivation primary road
+1238,agriculture clear primary
+1239,agriculture partly_cloudy primary
+1240,partly_cloudy primary
+1241,agriculture clear primary road
+1242,clear primary
+1243,clear primary water
+1244,clear primary water
+1245,clear primary
+1246,clear primary
+1247,partly_cloudy primary water
+1248,clear primary
+1249,agriculture partly_cloudy primary road
+1250,partly_cloudy primary
+1251,clear primary road water
+1252,agriculture clear primary road
+1253,agriculture clear cultivation primary
+1254,agriculture clear primary road water
+1255,clear primary
+1256,cloudy
+1257,clear primary
+1258,clear primary water
+1259,clear primary
+1260,clear primary
+1261,agriculture clear primary
+1262,agriculture clear primary road
+1263,clear cultivation primary
+1264,partly_cloudy primary
+1265,cloudy
+1266,agriculture partly_cloudy primary
+1267,clear primary
+1268,haze primary
+1269,clear cultivation primary
+1270,clear primary
+1271,agriculture clear cultivation primary
+1272,agriculture clear cultivation primary
+1273,agriculture bare_ground clear cultivation primary
+1274,clear primary
+1275,clear primary
+1276,clear primary
+1277,agriculture clear cultivation primary
+1278,agriculture clear primary slash_burn
+1279,agriculture clear cultivation habitation primary road
+1280,agriculture cultivation partly_cloudy primary
+1281,clear primary
+1282,clear primary
+1283,cloudy
+1284,partly_cloudy primary
+1285,clear primary road
+1286,clear primary
+1287,agriculture partly_cloudy primary road
+1288,clear primary water
+1289,clear primary water
+1290,clear primary water
+1291,partly_cloudy primary
+1292,clear primary
+1293,clear primary
+1294,agriculture clear primary
+1295,agriculture clear primary road
+1296,clear primary
+1297,cloudy
+1298,agriculture haze primary
+1299,clear primary
+1300,partly_cloudy primary water
+1301,agriculture clear primary road
+1302,agriculture partly_cloudy primary
+1303,clear primary
+1304,cloudy
+1305,agriculture partly_cloudy primary road
+1306,agriculture clear primary road
+1307,clear primary
+1308,clear primary water
+1309,agriculture clear cultivation primary
+1310,clear primary
+1311,agriculture clear primary road
+1312,partly_cloudy primary
+1313,haze primary
+1314,clear primary
+1315,haze primary
+1316,blooming clear primary
+1317,agriculture cultivation partly_cloudy primary
+1318,partly_cloudy primary
+1319,agriculture clear habitation primary road slash_burn
+1320,agriculture haze primary water
+1321,haze primary
+1322,clear primary
+1323,agriculture clear cultivation primary road
+1324,clear primary
+1325,agriculture clear primary road
+1326,clear habitation primary road
+1327,agriculture clear primary road
+1328,agriculture partly_cloudy primary road
+1329,clear primary water
+1330,clear habitation primary road
+1331,agriculture cultivation partly_cloudy primary road
+1332,agriculture clear primary road
+1333,agriculture clear primary road
+1334,bare_ground clear primary road
+1335,partly_cloudy primary
+1336,cloudy
+1337,clear primary selective_logging water
+1338,clear primary water
+1339,cloudy
+1340,agriculture artisinal_mine clear cultivation habitation primary water
+1341,agriculture clear road
+1342,clear primary
+1343,clear primary
+1344,partly_cloudy primary
+1345,clear primary
+1346,agriculture clear primary
+1347,agriculture clear habitation primary road
+1348,agriculture clear primary road
+1349,clear primary
+1350,partly_cloudy primary
+1351,clear primary
+1352,clear cultivation primary water
+1353,clear primary
+1354,clear primary
+1355,clear primary
+1356,partly_cloudy primary
+1357,partly_cloudy primary
+1358,clear primary
+1359,agriculture clear primary road
+1360,cloudy
+1361,agriculture clear primary
+1362,clear primary
+1363,haze primary road
+1364,agriculture clear cultivation primary water
+1365,agriculture clear primary
+1366,agriculture clear habitation primary road
+1367,clear primary
+1368,partly_cloudy primary
+1369,clear primary
+1370,partly_cloudy primary
+1371,clear primary
+1372,clear primary
+1373,agriculture clear cultivation primary
+1374,cloudy
+1375,clear primary
+1376,agriculture partly_cloudy primary road
+1377,clear primary
+1378,cloudy
+1379,agriculture clear primary
+1380,clear cultivation primary
+1381,clear primary
+1382,partly_cloudy primary
+1383,clear primary water
+1384,agriculture haze primary water
+1385,clear primary
+1386,clear primary selective_logging
+1387,clear primary
+1388,agriculture clear primary road water
+1389,haze primary road water
+1390,agriculture clear cultivation primary
+1391,cloudy
+1392,clear primary
+1393,agriculture clear primary road water
+1394,clear primary
+1395,clear primary
+1396,haze primary
+1397,clear primary
+1398,agriculture partly_cloudy primary road
+1399,clear primary
+1400,clear habitation primary road
+1401,agriculture clear cultivation habitation primary road water
+1402,clear primary water
+1403,agriculture clear primary
+1404,partly_cloudy primary
+1405,clear primary
+1406,clear primary
+1407,agriculture clear cultivation primary water
+1408,bare_ground clear primary
+1409,blooming clear primary
+1410,haze primary
+1411,bare_ground clear primary
+1412,clear primary
+1413,clear primary
+1414,clear primary
+1415,partly_cloudy primary
+1416,clear primary
+1417,clear primary water
+1418,agriculture clear habitation primary road
+1419,clear primary road water
+1420,agriculture clear primary water
+1421,bare_ground clear primary road
+1422,clear primary
+1423,agriculture clear cultivation primary
+1424,clear primary
+1425,clear primary
+1426,clear primary
+1427,clear primary
+1428,clear primary
+1429,clear primary
+1430,agriculture clear primary
+1431,agriculture clear cultivation primary
+1432,clear primary
+1433,clear primary
+1434,clear cultivation primary
+1435,clear primary
+1436,artisinal_mine clear primary water
+1437,clear primary
+1438,clear primary
+1439,agriculture clear cultivation habitation primary road
+1440,partly_cloudy primary
+1441,agriculture cultivation partly_cloudy primary
+1442,partly_cloudy primary
+1443,clear habitation primary road
+1444,agriculture clear primary water
+1445,agriculture clear primary
+1446,agriculture clear primary road
+1447,clear primary
+1448,clear primary
+1449,clear primary
+1450,cloudy
+1451,clear primary
+1452,clear primary
+1453,agriculture cultivation partly_cloudy primary road
+1454,haze primary
+1455,agriculture clear primary road
+1456,agriculture haze
+1457,clear primary
+1458,clear primary
+1459,clear primary
+1460,clear primary
+1461,clear primary
+1462,clear primary
+1463,clear primary
+1464,clear primary
+1465,agriculture clear cultivation cultivation habitation primary road slash_burn water
+1466,clear primary
+1467,clear primary
+1468,partly_cloudy primary water
+1469,partly_cloudy primary
+1470,clear primary
+1471,haze primary
+1472,clear primary
+1473,agriculture clear road
+1474,agriculture partly_cloudy primary road
+1475,partly_cloudy primary
+1476,agriculture bare_ground clear habitation road
+1477,partly_cloudy primary
+1478,clear primary
+1479,cloudy
+1480,clear primary water
+1481,agriculture partly_cloudy primary
+1482,agriculture clear cultivation primary
+1483,cloudy
+1484,clear primary
+1485,agriculture clear primary road water
+1486,cloudy
+1487,clear primary
+1488,clear primary
+1489,agriculture cultivation partly_cloudy primary
+1490,cloudy
+1491,clear primary
+1492,cloudy
+1493,clear primary road water
+1494,partly_cloudy primary
+1495,clear primary
+1496,haze primary
+1497,agriculture cultivation partly_cloudy primary road
+1498,clear primary
+1499,agriculture clear cultivation primary water
+1500,cloudy
+1501,agriculture clear habitation primary road
+1502,clear cultivation primary slash_burn
+1503,clear primary water
+1504,clear primary
+1505,clear primary water
+1506,clear primary
+1507,agriculture haze primary
+1508,clear primary
+1509,agriculture clear primary water
+1510,partly_cloudy primary
+1511,clear primary
+1512,partly_cloudy primary
+1513,clear primary
+1514,clear primary
+1515,clear primary
+1516,agriculture habitation haze primary road
+1517,cultivation habitation partly_cloudy primary
+1518,clear primary water
+1519,clear habitation primary water
+1520,cloudy
+1521,clear primary
+1522,clear primary
+1523,partly_cloudy primary
+1524,clear primary
+1525,agriculture clear habitation primary road
+1526,partly_cloudy primary road
+1527,agriculture clear habitation primary
+1528,clear primary water
+1529,clear cultivation habitation primary road water
+1530,clear primary
+1531,clear water
+1532,clear primary water
+1533,artisinal_mine clear primary water
+1534,agriculture partly_cloudy primary
+1535,clear primary
+1536,clear cultivation primary
+1537,agriculture clear primary road
+1538,cloudy
+1539,clear primary water
+1540,agriculture clear primary water
+1541,clear primary
+1542,clear primary water
+1543,agriculture clear habitation road
+1544,clear primary
+1545,agriculture partly_cloudy primary road
+1546,agriculture haze primary road
+1547,clear primary
+1548,clear primary water
+1549,partly_cloudy primary water
+1550,cloudy
+1551,cloudy
+1552,agriculture clear cultivation primary
+1553,clear primary
+1554,agriculture clear cultivation primary
+1555,partly_cloudy primary road
+1556,clear primary water
+1557,clear primary
+1558,agriculture haze primary
+1559,agriculture cultivation haze primary
+1560,clear primary road water
+1561,clear primary
+1562,haze primary
+1563,agriculture clear primary
+1564,agriculture clear habitation primary slash_burn water
+1565,partly_cloudy primary
+1566,agriculture bare_ground clear habitation primary
+1567,clear primary
+1568,clear primary
+1569,clear primary
+1570,clear primary
+1571,haze primary
+1572,clear primary
+1573,partly_cloudy primary
+1574,clear primary
+1575,clear primary
+1576,clear primary
+1577,clear primary
+1578,cloudy
+1579,clear primary
+1580,cloudy
+1581,agriculture clear cultivation primary
+1582,clear cultivation habitation primary road
+1583,clear primary
+1584,partly_cloudy primary
+1585,haze primary
+1586,clear primary road
+1587,agriculture clear primary road water
+1588,clear primary
+1589,blooming clear cultivation primary
+1590,clear primary
+1591,agriculture clear habitation primary
+1592,cultivation haze primary
+1593,clear primary
+1594,agriculture habitation haze primary road
+1595,clear primary
+1596,haze primary water
+1597,agriculture partly_cloudy primary
+1598,cloudy
+1599,agriculture clear cultivation habitation primary road
+1600,agriculture partly_cloudy primary water
+1601,partly_cloudy primary
+1602,clear primary
+1603,partly_cloudy primary road
+1604,haze primary
+1605,agriculture partly_cloudy primary
+1606,partly_cloudy primary
+1607,partly_cloudy primary
+1608,clear cultivation primary
+1609,partly_cloudy primary
+1610,agriculture clear primary road
+1611,clear water
+1612,clear primary
+1613,partly_cloudy primary
+1614,partly_cloudy primary
+1615,clear primary
+1616,clear primary
+1617,clear primary
+1618,partly_cloudy primary water
+1619,partly_cloudy primary
+1620,partly_cloudy primary
+1621,clear primary
+1622,clear primary
+1623,bare_ground clear primary
+1624,agriculture clear primary road
+1625,partly_cloudy primary
+1626,agriculture clear habitation primary road
+1627,clear primary
+1628,agriculture partly_cloudy primary
+1629,clear primary
+1630,partly_cloudy primary
+1631,agriculture clear primary
+1632,partly_cloudy primary water
+1633,clear primary
+1634,agriculture clear primary road
+1635,agriculture partly_cloudy primary road
+1636,agriculture partly_cloudy primary water
+1637,clear primary
+1638,clear primary
+1639,haze primary road
+1640,clear primary
+1641,agriculture partly_cloudy primary road
+1642,haze primary
+1643,clear primary
+1644,clear primary
+1645,agriculture cultivation partly_cloudy primary
+1646,agriculture haze primary water
+1647,clear primary water
+1648,partly_cloudy primary
+1649,agriculture clear cultivation primary road
+1650,agriculture clear cultivation primary road
+1651,partly_cloudy primary road water
+1652,clear primary
+1653,clear primary
+1654,clear primary
+1655,clear primary
+1656,agriculture clear primary
+1657,clear primary
+1658,clear primary
+1659,clear primary
+1660,agriculture clear habitation primary road
+1661,clear primary water
+1662,cloudy
+1663,cloudy
+1664,agriculture clear habitation primary road
+1665,partly_cloudy primary water
+1666,agriculture partly_cloudy primary road water
+1667,partly_cloudy primary
+1668,clear primary
+1669,blooming clear primary
+1670,cloudy
+1671,agriculture clear primary water
+1672,clear primary road selective_logging
+1673,clear primary
+1674,clear primary
+1675,clear primary
+1676,agriculture clear primary
+1677,partly_cloudy primary
+1678,clear primary
+1679,agriculture clear habitation primary road
+1680,haze primary
+1681,clear primary
+1682,clear primary water
+1683,agriculture clear primary road water
+1684,clear primary
+1685,clear primary
+1686,clear primary road water
+1687,agriculture clear habitation primary road
+1688,clear primary
+1689,artisinal_mine clear primary water
+1690,clear primary road
+1691,agriculture cultivation habitation partly_cloudy primary road water
+1692,partly_cloudy primary water
+1693,clear cultivation habitation primary
+1694,agriculture clear cultivation cultivation primary road
+1695,clear primary
+1696,clear primary
+1697,partly_cloudy primary
+1698,cloudy
+1699,clear primary
+1700,partly_cloudy primary water
+1701,clear primary
+1702,agriculture partly_cloudy primary road
+1703,haze primary
+1704,cloudy
+1705,clear habitation primary road water
+1706,clear primary
+1707,cloudy
+1708,agriculture clear cultivation primary
+1709,partly_cloudy primary
+1710,clear primary
+1711,cloudy
+1712,agriculture cultivation partly_cloudy primary road
+1713,clear primary
+1714,clear primary water
+1715,clear primary water
+1716,clear primary
+1717,cloudy
+1718,agriculture clear primary
+1719,clear primary
+1720,clear primary
+1721,clear primary selective_logging
+1722,cloudy
+1723,clear primary road
+1724,agriculture clear primary road
+1725,agriculture clear habitation primary road water
+1726,agriculture partly_cloudy primary water
+1727,agriculture clear primary
+1728,agriculture clear primary
+1729,haze primary
+1730,partly_cloudy primary
+1731,clear primary
+1732,partly_cloudy primary water
+1733,blooming clear primary
+1734,clear primary
+1735,agriculture clear primary water
+1736,agriculture haze primary water
+1737,agriculture clear primary road
+1738,cloudy
+1739,haze primary
+1740,agriculture clear primary
+1741,clear primary
+1742,clear habitation primary road
+1743,agriculture cultivation habitation partly_cloudy primary road
+1744,clear primary
+1745,clear primary water
+1746,clear primary water
+1747,agriculture cultivation partly_cloudy primary
+1748,haze primary
+1749,agriculture partly_cloudy primary road
+1750,clear primary
+1751,partly_cloudy primary
+1752,agriculture habitation partly_cloudy primary road
+1753,clear primary
+1754,clear primary
+1755,agriculture clear habitation primary road
+1756,cloudy
+1757,haze primary
+1758,haze primary
+1759,clear primary
+1760,clear primary
+1761,clear primary
+1762,agriculture clear cultivation primary
+1763,clear primary
+1764,agriculture cultivation haze primary
+1765,partly_cloudy primary
+1766,clear primary
+1767,agriculture partly_cloudy primary road
+1768,agriculture clear primary water
+1769,clear primary
+1770,clear primary
+1771,agriculture clear road
+1772,partly_cloudy primary
+1773,clear primary
+1774,clear primary
+1775,clear primary road water
+1776,cloudy
+1777,cloudy
+1778,clear primary
+1779,clear primary water
+1780,clear primary
+1781,agriculture clear habitation primary road
+1782,cloudy
+1783,agriculture clear cultivation primary
+1784,clear primary
+1785,agriculture clear primary road
+1786,cloudy
+1787,agriculture clear primary road
+1788,clear primary
+1789,agriculture partly_cloudy primary road
+1790,agriculture clear habitation primary road water
+1791,clear primary water
+1792,clear primary water
+1793,cloudy
+1794,agriculture cultivation partly_cloudy primary
+1795,partly_cloudy primary
+1796,clear primary
+1797,clear primary water
+1798,haze primary road
+1799,clear primary
+1800,clear primary
+1801,agriculture haze primary road
+1802,clear primary
+1803,clear primary
+1804,agriculture cultivation haze primary
+1805,clear primary
+1806,clear primary
+1807,blooming clear primary
+1808,clear primary blooming
+1809,agriculture clear cultivation primary road
+1810,clear primary blooming
+1811,clear primary
+1812,clear habitation road
+1813,agriculture clear primary
+1814,partly_cloudy primary road water
+1815,agriculture clear primary road
+1816,agriculture clear habitation primary road
+1817,clear primary
+1818,agriculture partly_cloudy primary road
+1819,agriculture clear primary road
+1820,partly_cloudy primary
+1821,haze primary
+1822,agriculture clear primary road
+1823,agriculture clear primary
+1824,partly_cloudy primary
+1825,clear primary
+1826,agriculture clear primary water
+1827,partly_cloudy primary
+1828,partly_cloudy primary agriculture water
+1829,agriculture clear primary
+1830,clear primary
+1831,clear primary
+1832,clear primary
+1833,clear primary road
+1834,agriculture clear cultivation primary water
+1835,clear primary
+1836,cloudy
+1837,clear primary
+1838,partly_cloudy primary
+1839,clear primary
+1840,agriculture cultivation haze primary road water
+1841,clear primary
+1842,clear primary water
+1843,agriculture clear primary water
+1844,partly_cloudy primary
+1845,clear primary
+1846,cultivation partly_cloudy primary
+1847,artisinal_mine clear primary water
+1848,agriculture partly_cloudy primary
+1849,cloudy
+1850,partly_cloudy primary water
+1851,clear primary
+1852,clear primary
+1853,partly_cloudy primary water
+1854,haze primary road water
+1855,clear primary
+1856,cloudy
+1857,partly_cloudy primary slash_burn
+1858,clear primary
+1859,agriculture partly_cloudy primary
+1860,agriculture cultivation partly_cloudy primary
+1861,clear primary road water
+1862,agriculture partly_cloudy primary
+1863,partly_cloudy primary
+1864,clear primary
+1865,agriculture clear primary road
+1866,clear primary
+1867,agriculture partly_cloudy primary
+1868,clear cultivation primary
+1869,partly_cloudy primary water
+1870,clear primary
+1871,clear primary
+1872,haze primary
+1873,partly_cloudy primary
+1874,agriculture cultivation haze primary
+1875,partly_cloudy primary
+1876,cloudy
+1877,clear primary
+1878,agriculture clear primary road
+1879,cultivation partly_cloudy primary selective_logging
+1880,haze primary
+1881,agriculture clear primary
+1882,clear primary water
+1883,clear primary
+1884,artisinal_mine clear primary water
+1885,agriculture clear habitation primary road
+1886,clear primary
+1887,clear primary
+1888,clear habitation primary road water
+1889,agriculture clear primary road
+1890,clear primary
+1891,clear primary
+1892,agriculture partly_cloudy primary
+1893,partly_cloudy primary
+1894,agriculture habitation partly_cloudy primary road
+1895,clear primary
+1896,agriculture clear primary road water
+1897,clear primary
+1898,clear primary
+1899,clear primary
+1900,clear primary
+1901,agriculture clear cultivation primary water
+1902,clear primary
+1903,partly_cloudy primary
+1904,clear primary water
+1905,haze primary water
+1906,clear primary
+1907,clear primary
+1908,clear primary road water
+1909,agriculture clear cultivation primary water
+1910,bare_ground clear water
+1911,clear primary
+1912,bare_ground clear habitation primary road
+1913,clear primary road
+1914,partly_cloudy primary
+1915,clear primary
+1916,cloudy
+1917,artisinal_mine clear primary water
+1918,agriculture clear primary road water
+1919,clear primary
+1920,clear primary
+1921,cloudy
+1922,partly_cloudy primary
+1923,clear primary road water
+1924,agriculture clear cultivation habitation primary
+1925,clear primary water
+1926,agriculture clear primary road
+1927,clear primary
+1928,partly_cloudy primary
+1929,agriculture habitation partly_cloudy primary road
+1930,agriculture clear cultivation primary
+1931,clear primary
+1932,clear primary
+1933,cloudy
+1934,clear primary
+1935,agriculture clear habitation primary road
+1936,clear primary water
+1937,clear primary
+1938,cloudy
+1939,agriculture clear cultivation primary water
+1940,clear primary road water
+1941,agriculture habitation partly_cloudy primary road water
+1942,partly_cloudy primary
+1943,clear primary
+1944,clear primary
+1945,clear primary
+1946,clear primary road water
+1947,clear primary
+1948,blooming clear primary
+1949,clear primary water
+1950,agriculture clear primary
+1951,agriculture clear cultivation primary
+1952,partly_cloudy primary
+1953,clear primary
+1954,partly_cloudy primary water
+1955,agriculture clear cultivation primary water
+1956,clear primary
+1957,clear primary selective_logging
+1958,clear primary
+1959,clear primary
+1960,clear primary
+1961,clear primary
+1962,agriculture haze primary water
+1963,partly_cloudy primary
+1964,bare_ground clear primary road
+1965,clear primary
+1966,agriculture clear primary road
+1967,partly_cloudy primary
+1968,cloudy
+1969,cloudy
+1970,partly_cloudy primary water
+1971,agriculture cultivation habitation haze primary road
+1972,partly_cloudy primary
+1973,clear primary
+1974,clear primary
+1975,agriculture clear habitation primary
+1976,clear primary
+1977,clear primary water
+1978,clear primary
+1979,clear primary
+1980,clear primary
+1981,clear primary
+1982,agriculture clear cultivation primary
+1983,clear primary
+1984,clear primary
+1985,clear primary water
+1986,clear habitation primary road
+1987,agriculture clear primary
+1988,agriculture clear habitation primary road
+1989,partly_cloudy primary
+1990,agriculture clear primary road
+1991,haze primary
+1992,clear primary
+1993,clear primary
+1994,clear primary
+1995,habitation haze primary
+1996,cloudy
+1997,clear primary
+1998,clear primary
+1999,clear primary
