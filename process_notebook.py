@@ -1,6 +1,6 @@
 START_DELETE_TOKEN = "# ~~START DELETE~~"
 END_DELETE_TOKEN = "# ~~END DELETE~~"
-DELETE_LINE_TOKEN = "# ~~DELETE LINE~~"
+DELETE_LINE_TOKENS = ("# ~~DELETE LINE~~", "# fmt: off", "# fmt: on")
 WARNING_TOKEN = "~~"
 CODE_TAG_START = "# ***** Start of your code *****"
 CODE_TAG_END = "# ***** End of your code *****"
@@ -12,7 +12,7 @@ Based on infrastructure from cs231n.
 Takes code that looks like this:
 ```
 def fizzbuzz(max):
-    print("Line to delete") {DELETE_LINE_TOKEN}
+    print("Line to delete") {DELETE_LINE_TOKENS[0]}
     for i in range(max):
         {START_DELETE_TOKEN}
         if i % 3 == 0 and i % 5 == 0:
@@ -68,9 +68,10 @@ def handle_code(in_code, is_code=True):
 
         # Check if we should skip this line
         skip_line = False
-        if line.strip().endswith(DELETE_LINE_TOKEN):
-            skip_line = True
-            matched = True
+        for token in DELETE_LINE_TOKENS:
+            if line.strip().endswith(token):
+                skip_line = True
+                matched = True
 
         # Maybe output the line
         if not skip_block and not skip_line:
