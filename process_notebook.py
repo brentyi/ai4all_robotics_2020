@@ -88,7 +88,7 @@ def handle_code(in_code, is_code=True):
             num_spaces = len(line) - len(line.lstrip(" "))
             if is_code:
                 out_code.append(num_spaces * " " + "pass\n")
-                out_code.append(num_spaces * " " + CODE_TAG_END)
+                out_code.append(num_spaces * " " + CODE_TAG_END + "\n")
 
         # If the line did not match any tokens but contains the warning token
         # then there was probably a typo in the input file; issue a warning.
@@ -97,6 +97,11 @@ def handle_code(in_code, is_code=True):
             print(line)
             print()
             # assert False
+
+    # Remove trailing line breaks
+    if out_code[-1][-1] == "\n":
+        out_code[-1] = out_code[-1][:-1]
+
     return (out_code, lines_removed)
 
 
