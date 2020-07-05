@@ -29,7 +29,7 @@ And outputs:
 def fizzbuzz(max):
     for i in range(max):
         {CODE_TAG_START}
-        pass
+        raise NotImplementedError()
         {CODE_TAG_END}
 ```
 
@@ -87,7 +87,7 @@ def handle_code(in_code, is_code=True):
             # at the correct indentation level.
             num_spaces = len(line) - len(line.lstrip(" "))
             if is_code:
-                out_code.append(num_spaces * " " + "pass\n")
+                out_code.append(num_spaces * " " + "raise NotImplementedError()\n")
                 out_code.append(num_spaces * " " + CODE_TAG_END + "\n")
 
         # If the line did not match any tokens but contains the warning token
