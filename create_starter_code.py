@@ -5,12 +5,7 @@ WARNING_TOKEN = "~~"
 CODE_TAG_START = "# ***** Start of your code *****"
 CODE_TAG_END = "# ***** End of your code *****"
 
-__doc__ = f"""
-Helper script for processing assignment scripts/notebooks for release as "starter code".
-Based on infrastructure from cs231n.
-
-Takes code that looks like this:
-```
+EXAMPLE_INPUT = f"""
 def fizzbuzz(max):
     print("Line to delete") {DELETE_LINE_TOKENS[0]}
     for i in range(max):
@@ -22,15 +17,28 @@ def fizzbuzz(max):
         elif i % 5 == 0:
             print("Buzz")
         {END_DELETE_TOKEN}
-```
+"""
 
-And outputs:
-```
+EXAMPLE_OUTPUT = f"""
 def fizzbuzz(max):
     for i in range(max):
         {CODE_TAG_START}
         raise NotImplementedError()
         {CODE_TAG_END}
+"""
+
+__doc__ = f"""
+Helper script for processing assignment scripts/notebooks for release as "starter code".
+Based on infrastructure from cs231n.
+
+Takes code that looks like this:
+```
+{EXAMPLE_INPUT}
+```
+
+And outputs:
+```
+{EXAMPLE_OUTPUT}
 ```
 
 For notebooks, we also (a) reset execution counts and (b) clear all outputs.
@@ -137,6 +145,13 @@ def handle_python_file(in_path, out_path):
 
 
 if __name__ == "__main__":
+    # Check functionality
+    assert (
+        "".join(handle_code([line + "\n" for line in EXAMPLE_INPUT.split("\n")])[0])
+        == EXAMPLE_OUTPUT
+    )
+
+    # Parse arguments
     parser = argparse.ArgumentParser(
         description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter
     )
