@@ -1,13 +1,16 @@
 START_DELETE_TOKEN = "# ~~START DELETE~~"
 END_DELETE_TOKEN = "# ~~END DELETE~~"
 DELETE_LINE_TOKENS = ("# ~~DELETE LINE~~", "# fmt: off", "# fmt: on")
+DELETE_RHS_TOKEN = "# ~~DELETE RHS~~"
 WARNING_TOKEN = "~~"
+CODE_TAG_RHS = "# ***** Your code here *****"
 CODE_TAG_START = "# ***** Start of your code *****"
 CODE_TAG_END = "# ***** End of your code *****"
 
 EXAMPLE_INPUT = f"""
 def fizzbuzz(max):
     print("Line to delete") {DELETE_LINE_TOKENS[0]}
+    x = 5 {DELETE_RHS_TOKEN}
     for i in range(max):
         {START_DELETE_TOKEN}
         if i % 3 == 0 and i % 5 == 0:
@@ -21,6 +24,7 @@ def fizzbuzz(max):
 
 EXAMPLE_OUTPUT = f"""
 def fizzbuzz(max):
+    x = None {CODE_TAG_RHS}
     for i in range(max):
         {CODE_TAG_START}
         raise NotImplementedError()
@@ -80,6 +84,14 @@ def handle_code(in_code, is_code=True):
             if line.strip().endswith(token):
                 skip_line = True
                 matched = True
+
+        # Check if we should delete the right-hand side
+        if line.strip().endswith(DELETE_RHS_TOKEN):
+            out_code.append(
+                f"{line.rpartition('=')[0]}= None {CODE_TAG_RHS}\n"
+            )
+            skip_line = True
+            matched = True
 
         # Maybe output the line
         if not skip_block and not skip_line:
