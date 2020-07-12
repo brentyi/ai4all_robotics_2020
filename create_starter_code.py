@@ -36,14 +36,10 @@ Helper script for processing assignment scripts/notebooks for release as "starte
 Based on infrastructure from cs231n.
 
 Takes code that looks like this:
-```
-{EXAMPLE_INPUT}
-```
+```{EXAMPLE_INPUT}```
 
 And outputs:
-```
-{EXAMPLE_OUTPUT}
-```
+```{EXAMPLE_OUTPUT}```
 
 For notebooks, we also (a) reset execution counts and (b) clear all outputs.
 
