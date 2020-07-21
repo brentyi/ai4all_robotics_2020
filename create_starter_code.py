@@ -85,7 +85,7 @@ def handle_code(in_code, is_code=True):
         # Check if we should delete the right-hand side
         if line.strip().endswith(DELETE_RHS_TOKEN):
             out_code.append(
-                f"{line.rpartition('=')[0]}= None {CODE_TAG_RHS}\n"
+                f"{line.partition('=')[0]}= None {CODE_TAG_RHS}\n"
             )
             skip_line = True
             matched = True
