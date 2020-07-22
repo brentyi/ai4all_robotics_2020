@@ -1,10 +1,7 @@
 import time
 
-import cv2
-import matplotlib.pyplot as plt
 import numpy as np
 import PIL.Image
-import sklearn.utils
 import yaml
 
 
@@ -12,10 +9,10 @@ def load_dataset():
     """Load our aerial imagery dataset.
 
     Note that this function currently downscales all images from 300x300 to
-    64x64 -- this makes them a bit easier to work with, but you're welcome to
+    128x128 -- this makes them a bit easier to work with, but you're welcome to
     try and use the full images to try and improve performance.
 
-    If you do do* this, note that you'll need 22x more memory to store the same
+    If you do do* this, note that you'll need 5.5x more memory to store the same
     number of images! To make things more manageable, you can try removing the
     `/ 255.0` normalization term and storing the images as type `np.uint8` instead
     of `np.float32`. (this reduces memory usage by 4x)
@@ -23,7 +20,7 @@ def load_dataset():
     *lol
 
     Returns:
-        images (np.ndarray): Array of images. Shape should be (N, 64, 64, 3).
+        images (np.ndarray): Array of images. Shape should be (N, 128, 128, 3).
         labels (np.ndarray): Array of labels, 0 or 1. Shape should be (N,).
     """
     # Get the start time
@@ -58,10 +55,10 @@ def load_dataset():
 
     print("Loading images", end="")
     # Get images
-    images = np.zeros((len(paths), 64, 64, 3), dtype=np.float32)
+    images = np.zeros((len(paths), 128, 128, 3), dtype=np.float32)
     progress = 0.0
     for i, path in enumerate(paths):
-        images[i] = np.array(PIL.Image.open(path).resize((64, 64))) / 255.0
+        images[i] = np.array(PIL.Image.open(path).resize((128, 128))) / 255.0
         if i / len(paths) > progress:
             progress += 1.0 / 20.0
             print(".", end="", flush=True)
