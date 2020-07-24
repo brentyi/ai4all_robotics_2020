@@ -150,13 +150,12 @@ def visualize_path(M, p):
     m, n = M.shape
 
     def ids(l):
-        return [l // m, l % m]
+        return [l // n, l % n]
 
     def flip(t):
         return [t[1], t[0]]
 
     ps = np.zeros((2, T * (len(p)-1)))
-    print(ps.shape)
     for i in range(len(p)-1):
         u, v = p[i], p[i+1]
         ucoords = np.array(flip(ids(u))).reshape((2, 1))
@@ -212,4 +211,4 @@ def visualize_path(M, p):
 
 
     ani = FuncAnimation(fig, update, interval=100, frames=T*(len(p) - 1))
-    HTML(ani.to_html5_video())
+    return HTML(ani.to_html5_video())
